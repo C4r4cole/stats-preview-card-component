@@ -32,6 +32,10 @@ h1{
     font-size: 1em;
 }
 
+.strong{
+    font-size: 2em;
+}
+
 .image{
     width: 50%;
 }
